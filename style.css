@@ -36,9 +36,9 @@ body {
     padding: 5px 20px;
     margin: 0 10px 10px 0;
     font-size: 18px;
-    color: #fff;
+    color: rgb(163, 108, 108);
     cursor: pointer;
-    background: #659a98;
+    background: #040a0a;
     border: 0;
     border-radius: 5px;
     box-shadow: 2px 2px 3px #bbb;
